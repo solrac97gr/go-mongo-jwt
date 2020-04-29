@@ -1,2 +1,2 @@
-# twitter-fake
-Twitter using Golang, Mongo and React Typescript
+# Golang - Mongo - JWT
+Template for other projects
